@@ -4,7 +4,7 @@ Update your build while you are changing HTML files.
 
 ## Features
 
-No server is needed, no coninuous compilation.
+No server is needed, no continuous compilation.
 
 ## Requirements
 
